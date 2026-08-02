@@ -1,6 +1,6 @@
 # Local Word to XMind
 
-[中文](README.md) | [English](README_EN.md)
+[中文](README_CN.md) | [English](README.md)
 
 A fully local Python tool that reads structured Word requirement documents, uses a local Ollama model to generate software test cases, and exports them as an XMind 8-compatible mind map.
 
