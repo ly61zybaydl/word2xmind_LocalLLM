@@ -220,4 +220,4 @@ pip install -r requirements.txt --upgrade
 
 ## 开源许可证
 
-仓库目前尚未包含许可证。正式公开前，请根据你的使用目标添加 `LICENSE` 文件；宽松开源项目通常可选择 MIT 或 Apache-2.0。
+本项目基于 [MIT License](LICENSE) 开源。

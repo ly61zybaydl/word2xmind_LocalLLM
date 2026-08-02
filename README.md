@@ -220,4 +220,4 @@ Issues and pull requests are welcome. Before submitting code, please ensure that
 
 ## License
 
-This repository does not include a license yet. Before making it public, add a `LICENSE` file that matches your intended use; MIT and Apache-2.0 are common permissive choices.
+This project is licensed under the [MIT License](LICENSE).
